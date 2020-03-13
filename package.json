@@ -1,6 +1,6 @@
 {
   "name": "mbgl-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Express a Mapbox GL configuration as React components",
   "main": "dist/mbgl-components.js",
   "module": "lib/index.js",
