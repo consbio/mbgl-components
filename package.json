@@ -20,6 +20,7 @@
   "dependencies": {
     "clone-deep": "^4.0.1",
     "mapbox-gl": "^1.8.1",
+    "prop-types": "^15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "uuid": "^7.0.2"
@@ -30,6 +31,7 @@
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.8.3",
     "@babel/register": "^7.8.6",
+    "@hot-loader/react-dom": "^16.13.0",
     "babel-loader": "^8.0.6",
     "eslint": "^6.8.0",
     "prettier": "^1.19.1",
