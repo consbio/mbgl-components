@@ -21,7 +21,7 @@ export default {
     output: {
         filename: 'mbgl-components.js',
         path: path.resolve(__dirname, 'dist'),
-        library: 'mbgl-components'
+        library: 'mbglComponents'
     },
     resolve: {
         modules: [
